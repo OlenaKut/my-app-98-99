@@ -4,10 +4,10 @@
   color: #09532c;
 }
 
-.timer {
-  margin-left: -110px;
-  margin-right: -130px;
+.main {
+  height: 100%;
+  display: flex;
 }
-.buttons {
-  margin-left: -50px;
+.timer {
+  text-align: center;
 }
